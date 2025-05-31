@@ -51,3 +51,5 @@ The model runs entirely *offline*, making it ideal for simple experiments withou
 ## Run Python Script
 
 python gpt2_text_gen.py
+
+![Image](https://github.com/user-attachments/assets/1d0121e9-7ed8-47ac-a447-c0cd1e198564)
